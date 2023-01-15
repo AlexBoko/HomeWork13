@@ -12,7 +12,7 @@ public class Main {
         System.out.println(firstBook.setPublishYear());
 
 
-        System.out.println("Authors:");
+        System.out.println("Authors:")
         Author frankhNoris = new Author("Frank", "Noris");
         Author frankhNoris2 = new Author("Frank", "Noris");
         Author martinIden = new Author("Martin", "Iden");

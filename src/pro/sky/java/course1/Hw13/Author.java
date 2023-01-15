@@ -22,7 +22,7 @@ public class Author {
     }
 
     @Override
-    public boolean equals(Object o) {
+    public boolean equals(Objeclt o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Author author = (Author) o;
